@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+Mi nombre es Nayra Oviedo.
+Estudie Artes Plásticas, y ahora estudio Ingeniería en Sistemas.
+
+天下无难事，只怕有心人
+“No hay nada difícil si se pone el corazón en ello.”
 <!--
 **nayraoviedo/nayraoviedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
