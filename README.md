@@ -7,7 +7,7 @@ Estudiante de Ingeniería en Sistemas y Artes Plásticas. 💻🎨👩🏻‍�
 **天下无难事，只怕有心人** _“No hay nada difícil si se pone el corazón en ello.”_ ✨ 
 
 
-![relatable](https://scontent.flpb1-2.fna.fbcdn.net/v/t39.30808-6/498569886_2998398387019709_2420084029022620111_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=NqNB07FyZAAQ7kNvwHYvoF0&_nc_oc=AdnESSHMmvZl8ZpolJuL7QyTFBWWI452vaJlLVUUdoTthWFaTcA9owL6vC9s9G_0rod616arZ7b9k0kBVrEekChx&_nc_zt=23&_nc_ht=scontent.flpb1-2.fna&_nc_gid=DlpaXusvPDd5RVmoBXYHHw&oh=00_AfRW_BHzvX2cmUAxt-plq-VW7s2SAc2fqHvMfrH4Xh1uIg&oe=6876EC06)
+![relatable](https://i.ibb.co/DDCHVqsq/498569886-2998398387019709-2420084029022620111-n.png)
  </div>
 <!--
 **nayraoviedo/nayraoviedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
