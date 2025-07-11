@@ -1,8 +1,11 @@
-## Hola, hola 👋 Soy Nayra
 
-Estudiante de Ingeniería en Sistemas y Artes Plásticas. 
+<div align="center">
+ 
+## - ̗̀  Hola, yo soy Nayra 👋 
+Estudiante de Ingeniería en Sistemas y Artes Plásticas. 💻🎨👩🏻‍🎨
 
-天下无难事，只怕有心人 / “No hay nada difícil si se pone el corazón en ello.” ✨
+**天下无难事，只怕有心人** _“No hay nada difícil si se pone el corazón en ello.”_ ✨ </div>
+![relatable](https://64.media.tumblr.com/2b5c45b4decc93c562383f6acaeedca9/tumblr_owset6Ncoj1tognpro1_1280.png)
 
 <!--
 **nayraoviedo/nayraoviedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
