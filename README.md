@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 Mi nombre es Nayra Oviedo.
+
 Estudie Artes Plásticas, y ahora estudio Ingeniería en Sistemas.
 
 天下无难事，只怕有心人
